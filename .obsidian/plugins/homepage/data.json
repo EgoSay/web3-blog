@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "defaultNote": "blog/主页",
+  "useMoment": false,
+  "momentFormat": "YYYY-MM-DD",
+  "workspace": "Home",
+  "workspaceEnabled": false,
+  "hasRibbonIcon": false,
+  "openMode": "Replace all open notes",
+  "manualOpenMode": "Keep open notes",
+  "view": "Default view",
+  "refreshDataview": true,
+  "autoCreate": false
+}
