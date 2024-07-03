@@ -1,1 +1,8 @@
-{}
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "附件",
+  "userIgnoreFilters": [
+    "模板/",
+    "附件/"
+  ]
+}

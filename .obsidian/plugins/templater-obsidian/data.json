@@ -24,6 +24,8 @@
     "模板/笔记模板.md"
   ],
   "startup_templates": [
-    "模板/笔记模板.md"
+    "模板/笔记模板.md",
+    "模板/daily.md",
+    "模板/index.md"
   ]
 }

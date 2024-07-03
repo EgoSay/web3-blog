@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "blog/主页.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -28,13 +28,37 @@
               "type": "markdown",
               "state": {
                 "file": "blog/常用网站.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b929f48b1fd746cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/basis/挖矿原理.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "766acd61b59a6583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-07-02.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/常用网站.md",
+                "file": "daily/2024-07-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/常用网站.md",
+                "file": "daily/2024-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/常用网站.md"
+                "file": "daily/2024-07-02.md"
               }
             }
           },
@@ -159,9 +183,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d4baff67f36b686e",
+  "active": "766acd61b59a6583",
   "lastOpenFiles": [
     "blog/主页.md",
-    "模板/笔记模板.md"
+    "blog/basis/basis.md",
+    "blog/常用网站.md",
+    "daily/2024-07-02.md",
+    "daily/2024-07-03.md",
+    "模板/daily.md",
+    "模板/index.md",
+    "模板/笔记模板.md",
+    "blog/basis/挖矿原理.md",
+    "blog/d2.md"
   ]
 }
