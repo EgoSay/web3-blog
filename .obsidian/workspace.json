@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/basis/挖矿原理.md",
+                "file": "daily/2024-07-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,14 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-07-02.md",
+                "file": "daily/2024-07-04.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,17 +183,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "766acd61b59a6583",
+  "active": "b929f48b1fd746cf",
   "lastOpenFiles": [
-    "blog/主页.md",
+    "blog/basis/挖矿原理.md",
     "blog/basis/basis.md",
-    "blog/常用网站.md",
+    "daily/2024-07-04.md",
     "daily/2024-07-02.md",
+    "blog/主页.md",
+    "blog/常用网站.md",
     "daily/2024-07-03.md",
     "模板/daily.md",
     "模板/index.md",
-    "模板/笔记模板.md",
-    "blog/basis/挖矿原理.md",
-    "blog/d2.md"
+    "模板/笔记模板.md"
   ]
 }
