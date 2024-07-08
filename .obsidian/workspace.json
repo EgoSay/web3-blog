@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-07-02.md",
+                "file": "blog/basis/模拟实现最小区块链.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-07-02.md",
+                "file": "blog/basis/模拟实现最小区块链.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-07-02.md",
+                "file": "blog/basis/模拟实现最小区块链.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-07-02.md"
+                "file": "blog/basis/模拟实现最小区块链.md"
               }
             }
           },
@@ -185,10 +185,10 @@
   },
   "active": "b929f48b1fd746cf",
   "lastOpenFiles": [
+    "daily/2024-07-02.md",
     "blog/basis/挖矿原理.md",
     "blog/basis/basis.md",
     "daily/2024-07-04.md",
-    "daily/2024-07-02.md",
     "blog/主页.md",
     "blog/常用网站.md",
     "daily/2024-07-03.md",
