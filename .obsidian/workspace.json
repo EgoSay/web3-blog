@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "dc6fe030f30c8b26",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "d4baff67f36b686e",
             "type": "leaf",
             "state": {
@@ -39,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/basis/模拟实现最小区块链.md",
+                "file": "daily/2024-07-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/basis/模拟实现最小区块链.md",
+                "file": "daily/2024-07-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/basis/模拟实现最小区块链.md",
+                "file": "daily/2024-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/basis/模拟实现最小区块链.md"
+                "file": "daily/2024-07-08.md"
               }
             }
           },
@@ -175,9 +189,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "317efb310be69662",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,15 +207,15 @@
   },
   "active": "b929f48b1fd746cf",
   "lastOpenFiles": [
+    "blog/常用网站.md",
+    "blog/TODO.md",
+    "daily/2024-07-08.md",
     "daily/2024-07-02.md",
+    "daily/2024-07-03.md",
+    "daily/2024-07-04.md",
+    "blog/basis/模拟实现最小区块链.md",
     "blog/basis/挖矿原理.md",
     "blog/basis/basis.md",
-    "daily/2024-07-04.md",
-    "blog/主页.md",
-    "blog/常用网站.md",
-    "daily/2024-07-03.md",
-    "模板/daily.md",
-    "模板/index.md",
-    "模板/笔记模板.md"
+    "blog/主页.md"
   ]
 }
