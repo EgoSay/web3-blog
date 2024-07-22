@@ -18,6 +18,8 @@
 	- [ ] forge 熟练, 包括测试，部署合约等
 	- [ ] 连接钱包原理 （Wallet Connect 原理）
 	- [ ] 离线签名原理
+- [ ] project
+	- [ ] lianmeng yinsi jisuan
 
 
 

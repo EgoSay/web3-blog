@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-07-08.md",
+                "file": "blog/TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-07-08.md",
+                "file": "blog/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-07-08.md"
+                "file": "blog/TODO.md"
               }
             }
           },
@@ -181,17 +181,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d4baff67f36b686e",
+  "active": "dc6fe030f30c8b26",
   "lastOpenFiles": [
-    "blog/TODO.md",
     "daily/2024-07-08.md",
     "daily/2024-07-04.md",
-    "blog/主页.md",
-    "blog/常用网站.md",
+    "blog/TODO.md",
     "daily/2024-07-02.md",
-    "daily/2024-07-03.md",
+    "blog/常用网站.md",
     "blog/basis/模拟实现最小区块链.md",
-    "blog/basis/挖矿原理.md",
-    "blog/basis/basis.md"
+    "blog/basis/basis.md",
+    "daily/2024-07-03.md",
+    "blog/主页.md",
+    "blog/basis/挖矿原理.md"
   ]
 }
