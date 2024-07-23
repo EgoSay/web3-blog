@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f90508d9c81b921",
+        "id": "95a21307fd90aeeb",
         "type": "tabs",
         "children": [
           {
-            "id": "7e298e7abf2ac043",
+            "id": "0a834557cd74d8eb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "dc6fe030f30c8b26",
+            "id": "dd0903d42ab06ff3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "d4baff67f36b686e",
+            "id": "387de216ee31186e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/TODO.md",
+                "file": "daily/2024-07-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/TODO.md",
+                "file": "daily/2024-07-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/TODO.md"
+                "file": "daily/2024-07-08.md"
               }
             }
           },
@@ -181,17 +181,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dc6fe030f30c8b26",
+  "active": "387de216ee31186e",
   "lastOpenFiles": [
-    "daily/2024-07-08.md",
-    "daily/2024-07-04.md",
-    "blog/TODO.md",
-    "daily/2024-07-02.md",
     "blog/常用网站.md",
+    "blog/TODO.md",
+    "daily/2024-07-03.md",
+    "daily/2024-07-02.md",
+    "daily/2024-07-08.md",
+    "blog/主页.md",
+    "daily/2024-07-04.md",
     "blog/basis/模拟实现最小区块链.md",
     "blog/basis/basis.md",
-    "daily/2024-07-03.md",
-    "blog/主页.md",
     "blog/basis/挖矿原理.md"
   ]
 }
