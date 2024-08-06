@@ -31,6 +31,7 @@
 	- [ ] 贷后管理，不能直接展示 3 要素，而是展示加密哈希数据
 	- [ ] 平台不能拿到个人身份信息
 	- [ ] DID
+	- [ ] https://www.panewslab.com/zh/articledetails/fv057ytj.html
 
 
 

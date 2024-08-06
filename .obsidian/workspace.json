@@ -65,14 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/offer.md",
+                "file": "daily/2024-07-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/offer.md",
+                "file": "blog/合约升级.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/offer.md",
+                "file": "blog/合约升级.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/offer.md"
+                "file": "blog/合约升级.md"
               }
             }
           },
@@ -205,17 +205,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9504c30fc538b515",
+  "active": "f513eafc754f6827",
   "lastOpenFiles": [
     "blog/常用网站.md",
+    "daily/2024-07-08.md",
     "blog/TODO.md",
     "blog/合约升级.md",
-    "daily/2024-07-08.md",
+    "blog/offer.md",
     "daily/2024-07-03.md",
     "daily/2024-07-02.md",
     "blog/主页.md",
     "daily/2024-07-04.md",
-    "blog/basis/模拟实现最小区块链.md",
-    "blog/basis/basis.md"
+    "blog/basis/模拟实现最小区块链.md"
   ]
 }
