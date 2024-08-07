@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "801c46ada0460e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/Solidity/awesome-solidity.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f513eafc754f6827",
             "type": "leaf",
             "state": {
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/合约升级.md",
+                "file": "blog/Solidity/awesome-solidity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/合约升级.md",
+                "file": "blog/Solidity/awesome-solidity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/合约升级.md"
+                "file": "blog/Solidity/awesome-solidity.md"
               }
             }
           },
@@ -205,12 +217,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f513eafc754f6827",
+  "active": "801c46ada0460e21",
   "lastOpenFiles": [
-    "blog/常用网站.md",
-    "daily/2024-07-08.md",
     "blog/TODO.md",
     "blog/合约升级.md",
+    "blog/常用网站.md",
+    "daily/2024-07-08.md",
     "blog/offer.md",
     "daily/2024-07-03.md",
     "daily/2024-07-02.md",
