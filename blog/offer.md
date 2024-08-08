@@ -2,3 +2,8 @@ web3 数据工程师
 https://www.zhipin.com/job_detail/c00f5df5b60ec4971HBy2N66E1NQ.html?lid=73CMzktWAD7.search.8&securityId=m2VDVgxAMI1gV-B1WrbVtBPq2y_HBqTa0rISFE48BfmemOSwN8TgyIIAwltLYJI8RTHbuIb_A06rURjkq5yvxIf-DJq7TU34703X8L8HPDV8uLvPkb0~&sessionId=
 
 https://www.zhipin.com/job_detail/b100dc2dc54dba681Hdy2N60EFNX.html?lid=73oVnncaD95.search.22&securityId=_RmBeeTCCe8ip-21p7fr3iIBhgS4QuzOg_S_qlXDAuPcWxB5Rpu3mEyFTOp8R6eNmJqNzISe2uTYMuIC0MrFr6j-_aeq2pgindE_2kI4Aj7LmE4YYHIL&sessionId=
+
+
+
+https://cryptocurrencyjobs.co/engineering/
+https://abetterweb3.notion.site/abetterweb3-7ce334dcf8524cb79a5894bdd784ddb4
